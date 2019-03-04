@@ -1,1 +1,1 @@
-# kafka_configuration
+kafka 通用形配置，包括broker、producer、consumer和zookeeper，大多数集群配置皆可在此基础上修改
